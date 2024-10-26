@@ -1,4 +1,4 @@
-# PLAN
+# RESISTANCE TRAINING PLAN
 
 ## Overview
 * Workout three days per week.
