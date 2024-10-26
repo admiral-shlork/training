@@ -79,7 +79,7 @@
 * Warmup sets:
     * Start with 40-60% of target weight
     * Progressively add about 15% every warmup set
- * Example - squat:
+ * Example:
    * Warmup sets: 9x50kg (110lb), 6x60kg (130lb), 3x70kg (155lb);
    * Working sets: 5x80kg (175lb), 5x80kg (175lb), at least 5x80kg (175lb);
 * Good form on every rep goes without saying.
