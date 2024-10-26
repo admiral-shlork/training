@@ -74,11 +74,11 @@
     * 0.5kg (1.1lb) to row, every week
     * 0.5kg (1.1lb) to biceps curl, every week
     * 10 seconds to plank, every 2-4 weeks
-* If you fail to make 5 reps in the last set, remove 10% of the target weight on the next training and progress as before
+* If you fail to make 5 reps in the last set, remove 10% of the target weight on the next training and progress as before.
 * Warmup sets:
     * Start with 40-60% of target weight
     * Progressively add about 15% every warmup set
  * Example - squat:
    * Warmup sets: 9x50kg (110lb), 6x60kg (130lb), 3x70kg (155lb);
    * Working sets: 5x80kg (175lb), 5x80kg (175lb), at least 5x80kg (175lb);
-* Good form goes without saying
+* Good form on every rep goes without saying.
