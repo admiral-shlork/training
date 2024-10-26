@@ -57,7 +57,7 @@
     * 0.5kg to overhead press, every training
     * 0.5kg to row, every week
     * 0.5kg to biceps curl
-    * 10 seconds to plank, every 2-3 weeks
+    * 10 seconds to plank, every 2-4 weeks
 * if you fail to make 5 reps in the last set, remove 10% of the target weight on the next training and progress as before
 * warmup sets:
     * start with 40-60% of target weight
