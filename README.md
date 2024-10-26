@@ -9,7 +9,7 @@
 * Rows, biceps curls and planks every training.
 * Should take 50-60 minutes total.
 
-##Week 1
+## Week 1
 ### Day 1:
 * pullups: 3 sets - AMRAP
 * overhead barbell press: 3 warmup sets - 9/6/3 reps, 3 working sets- 5 reps each, last set AMRAP
