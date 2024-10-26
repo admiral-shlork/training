@@ -65,7 +65,7 @@
 * AMRAP - As Many Reps As Possible
 * Rest:
    * 30-40 seconds between warmup sets (or as long as it takes to change the weight on the bar)
-   * 1-3 minutes between working sets, depending on the exercise, whether it's the beginnning or end of the training etc.
+   * 1-3 minutes between working sets (depending on the exercise, whether it's the beginnning or end of the training etc.)
 * Add:
     * 1kg to squat, every training
     * 2kg to deadlift, every training
