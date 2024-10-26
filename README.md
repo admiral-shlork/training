@@ -4,7 +4,7 @@
 * Workout three days per week.
 * Alternate pullups and chinups.
 * Alternate barbell bench press and barbell overhead press.
-* Squats on first and third training of the week.
+* Squat on first and third training of the week.
 * Deadlift on the second training of the week.
 * Rows, biceps curls and planks on every training.
 * Should take 50-60 minutes total.
@@ -32,7 +32,7 @@
 * pullups: 3 sets - AMRAP
 * overhead barbell press: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
 * barbell row: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
-* barbell back squats: 3 warmup sets - 9/6/3 reps, 3 working sets- 5 reps each, last set AMRAP
+* barbell back squat: 3 warmup sets - 9/6/3 reps, 3 working sets- 5 reps each, last set AMRAP
 * barbell biceps curl: 3 sets - 10 reps
 * plank
 
@@ -41,7 +41,7 @@
 * chinups: 3 sets - AMRAP
 * barbell bench press: 3 warmup sets - 10 reps, 3 working sets - 10 reps
 * barbell row: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
-* barbell back squats: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
+* barbell back squat: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
 * barbell biceps curl: 3 sets - 10 reps
 * plank
 
@@ -57,7 +57,7 @@
 * chinups: 3 sets - AMRAP
 * barbell barbell bench press: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
 * barbell row: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
-* barbell back squats: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
+* barbell back squat: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
 * barbell biceps curl: 3 sets - 10 reps
 * plank
 
