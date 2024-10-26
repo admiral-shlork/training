@@ -55,7 +55,7 @@
 
 #### Day 6:
 * Chinups: 3 sets - AMRAP
-* Barbell barbell bench press: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
+* Barbell bench press: 3 warmup sets - 10 reps, 3 working sets - 10 reps
 * Barbell row: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
 * Barbell back squat: 3 warmup sets - 9/6/3 reps, 3 working sets - 5 reps each, last set AMRAP
 * Barbell biceps curl: 3 sets - 10 reps
