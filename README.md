@@ -4,7 +4,7 @@
 * Workout three days per week.
 * Alternate pullups and chinups.
 * Alternate barbell bench press and barbell overhead press.
-* Squats on first and third training of each week.
+* Squats on first and third training of the week.
 * Deadlift on the second training of the week.
 * Rows, biceps curls and planks on every training.
 * Should take 50-60 minutes total.
