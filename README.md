@@ -63,6 +63,7 @@
 
 ## Notes
 * AMRAP - As Many Reps As Possible
+* Any variant of row is fine
 * Rest:
    * 30-40 seconds between warmup sets (or as long as it takes to change the weight on the bar)
    * 1-3 minutes between working sets (depending on the exercise, whether it's the beginnning or end of the training etc.)
