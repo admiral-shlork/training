@@ -63,6 +63,7 @@
 
 ## Notes
 * AMRAP - As Many Reps As Possible
+* If you fail to make 5 reps in the last set, remove 10% of the target weight on the next training and progress as before.
 * Any variant of barbell row is fine
 * Rest:
    * 30-40 seconds between warmup sets (or as long as it takes to change the weight on the bar)
@@ -75,7 +76,6 @@
     * 0.5kg (1.1lb) to row, every week
     * 0.5kg (1.1lb) to biceps curl, every week
     * 10 seconds to plank, every 2-4 weeks
-* If you fail to make 5 reps in the last set, remove 10% of the target weight on the next training and progress as before.
 * Warmup sets:
     * Start with 40-60% of target weight
     * Progressively add about 15% every warmup set
