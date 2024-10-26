@@ -67,18 +67,18 @@
    * 30-40 seconds between warmup sets (or as long as it takes to change the weight on the bar)
    * 1-3 minutes between working sets (depending on the exercise, whether it's the beginnning or end of the training etc.)
 * Add:
-    * 1kg to squat, every training
-    * 2kg to deadlift, every training
-    * 0.5kg to bench press, every training
-    * 0.5kg to overhead press, every training
-    * 0.5kg to row, every week
-    * 0.5kg to biceps curl, every week
+    * 1kg (2.2lb) to squat, every training
+    * 2kg (4.4lb) to deadlift, every training
+    * 0.5kg (1.1lb) to bench press, every training
+    * 0.5kg (1.1lb) to overhead press, every training
+    * 0.5kg (1.1lb) to row, every week
+    * 0.5kg (1.1lb) to biceps curl, every week
     * 10 seconds to plank, every 2-4 weeks
 * If you fail to make 5 reps in the last set, remove 10% of the target weight on the next training and progress as before
 * Warmup sets:
     * Start with 40-60% of target weight
     * Progressively add 10-15% every warmup set
  * Example - squat:
-   * Warmup sets: 9x50kg, 6x60kg, 3x70kg;
-   * Working sets: 5x80kg, 5x80kg, at least 5x80kg;
+   * Warmup sets: 9x50kg (110lb), 6x60kg (130lb), 3x70kg (155lb);
+   * Working sets: 5x80kg (175lb), 5x80kg (175lb), at least 5x80kg (175lb);
 * Good form goes without saying
