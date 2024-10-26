@@ -81,3 +81,4 @@
  * Example - squat:
    * Warmup sets: 9x50kg, 6x60kg, 3x70kg;
    * Working sets: 5x80kg, 5x80kg, at least 5x80kg;
+* Good form goes without saying
