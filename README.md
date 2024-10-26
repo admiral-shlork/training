@@ -1,7 +1,7 @@
 # RESISTANCE TRAINING PLAN
 
 ## Overview
-* Workout three days per week.
+* Work out three days per week.
 * Alternate pullups and chinups.
 * Alternate barbell bench press and barbell overhead press.
 * Squat on first and third training of the week.
